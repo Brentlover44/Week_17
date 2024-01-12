@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <title>Homepage</title>
+     <meta charset="UTF-8">
+     </head>
+     <body>
+   </body>
+   </html>
+    
+<header class="header-nav"
+      <div class="header-nav">
+      <a href="index.html">Rachel Miller </a>
+      <a href="About"> About</a>
+      <a href="Resume"> Resume</a>
+      <a href="Work"> Work</a>
+      <div>
+        </body>
+        </html>
+
+   
+
+</body>
+</html> 
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.flex-container {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 150px;
+  margin: 6px;
+  text-align: center;
+  line-height: 50px;
+  font-size: 30px;
+}
+</style>
+</head>
+<body>
+
+<div class="flex-container">
+   <a href="Screenshot 2024-01-09 12.45.03 JPG">Screenshot 2024-01-09 12.45.03 JPG</a>
+  <h1>Rachel Miller </h1>
+ 
+  <body>
+  <p>Hello, let me tell you a little bit about myself. I enjoy creating art occasionally, and you can see my work throughout. I'm also occasionally interested in fashion and creating small pieces of clothing. Please get in touch with me if you want to collaborate.<p>
+  </body>
+</div>
+  
+  
+  <p>@2024 Rachel Miller All rights reserved.</p>
+
+
+    
+    //**CSS**//
+    
+.flex-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border: 1px solid #ddd;
+}
+
+    
